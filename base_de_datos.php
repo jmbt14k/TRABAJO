@@ -1,11 +1,4 @@
 <?php
-/*
-	Pequeño, muy pequeño sistema de ventas en PHP con MySQL
-
-	@author parzibyte
-
-	No olvides visitar parzibyte.me/blog para más cosas como esta
-*/
 $contraseña = "0O2zyUfl3%1u";
 $usuario = "grupo11";
 $nombre_base_de_datos = "grupo11";
